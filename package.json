@@ -18,5 +18,15 @@
     "gatsby": "^4.5.2",
     "react": "^17.0.1",
     "react-dom": "^17.0.1"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CheoR/gatsby-tut.gi.git"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CheoR/gatsby-tut.gi/issues"
+  },
+  "homepage": "https://github.com/CheoR/gatsby-tut.gi#readme"
 }
