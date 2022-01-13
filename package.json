@@ -22,11 +22,11 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/CheoR/gatsby-tut.gi.git"
+    "url": "git+https://github.com/CheoR/gatsby-tut.git"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/CheoR/gatsby-tut.gi/issues"
+    "url": "https://github.com/CheoR/gatsby-tut.git/issues"
   },
-  "homepage": "https://github.com/CheoR/gatsby-tut.gi#readme"
+  "homepage": "https://github.com/CheoR/gatsby-tut.git#readme"
 }
