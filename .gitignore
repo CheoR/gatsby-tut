@@ -3,5 +3,7 @@ node_modules/
 public
 
 .env.*
+*.swp
+
 project_notes.md
 
