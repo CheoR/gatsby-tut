@@ -26,7 +26,7 @@ const Layout = ({ pageTitle, children }) => {
     <div className={container}>
       <title>{pageTitle} | {data.site.siteMetadata.title}</title>
       <header className={siteTitle}>{data.site.siteMetadata.title}</header>
-      <p>{data.site.siteMetadata.warning}</p>
+      {/* <p>{data.site.siteMetadata.warning}</p> */}
       <nav>
         <ul className={navLinks}>
           <li className={navLinkItem}><Link to="/" className={navLinkText}>Home</Link></li>
